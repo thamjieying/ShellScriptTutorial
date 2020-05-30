@@ -9,8 +9,10 @@
 #   command1
 # }
 
-function sayHello(){
-  echo "HEllO WORLD"
+function print(){
+  echo $@ # all the arguments
+  echo $1 # first argument
+  echo $2 # secont argument
 }
 
 quit(){
@@ -18,7 +20,7 @@ quit(){
   exit
 }
 
-sayHello
+print "hello" "foo"
 quit
 
 echo "This should not be called"
