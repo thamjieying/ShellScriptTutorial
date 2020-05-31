@@ -25,3 +25,5 @@ Shell Script Notes based on this [Tutorial](https://www.youtube.com/playlist?lis
 17. Lesson 21 - Select Loop
 18. Lesson 22 - Break and Continue
 19. Lesson 23 - Functions
+20. Lesson 24 - Local Variable
+21. Lesson 25 - Function Example
