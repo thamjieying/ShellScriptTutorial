@@ -27,3 +27,6 @@ Shell Script Notes based on this [Tutorial](https://www.youtube.com/playlist?lis
 19. Lesson 23 - Functions
 20. Lesson 24 - Local Variable
 21. Lesson 25 - Function Example
+22. Lesson 26 - Read Only
+23. Lesson 27 - Signals and Traps
+24. Lesson 28 - Debugging Scripts
